@@ -1,0 +1,23 @@
+{"songs" : [
+  {"id" : "s1",
+  "title" : "Woman",
+  "artist" : "Doja Cat"},
+  {"id" : "s2",
+  "title" : "Rules",
+  "artist" : "Doja Cat"},
+  {"id" : "s3",
+  "title" : "Circus",
+  "artist" : "Britney Spears"},
+  {"id" : "s4",
+  "title" : "Streets",
+  "artist" : "Doja Cat"},
+  {"id" : "s5",
+  "title" : "Hermit the Frog",
+  "artist" : "MARINA"},
+  {"id" : "s6",
+  "title" : "Primadonna",
+  "artist" : "MARINA"},
+  {"id" : "s7",
+  "title" : "Toxic",
+  "artist" : "Britney Spears"}
+]}
